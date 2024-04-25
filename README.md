@@ -4,6 +4,8 @@
 
 A project exploring TypeScript and Vite to implement a feature that constructs notes, allowing users to save them using voice input
 
+### [Click to take a look](https://nlw-expert-react-kappa.vercel.app/)
+
 ## Installation
 
 requires [Node.js](https://nodejs.org/) v18+ to run.
